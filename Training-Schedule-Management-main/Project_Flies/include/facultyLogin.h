@@ -1,6 +1,8 @@
 #include <iostream>
 #include <fstream>
 #include <string.h>
+#include <algorithm>
+#include <cctype>
 
 using namespace std;
 string status;
@@ -35,6 +37,16 @@ public:
         }
 
         ifstream f1("/Users/KI20449224/Downloads/Project_Flies/data/trainerallotment.csv");
+
+        if (!f1.is_open())
+        {
+            cout << "Error opening file!" << endl;
+            return;
+        }
+
+        string batchID, technology, startDate, endDate, venueDetail, facultyName;
+        int nod, nop, month;
+        
         while (f1 >> batchID >> technology >> startDate >> endDate >> nod >> venueDetail >> nop >> month >> facultyName)
         {
             transform(facultyName.begin(), facultyName.end(), facultyName.begin(), ::tolower);
