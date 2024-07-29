@@ -12,8 +12,6 @@
 
 2. In dropdown menu please select `Download ZIP` option.
 
-<img width="399" alt="image" src="https://user-images.githubusercontent.com/70385488/223938052-a67a3cd0-18cf-458a-89d7-709c033e5e36.png">
-
 3. After downloading `ZIP File` please unzip it.
 
 ### Step 2:
