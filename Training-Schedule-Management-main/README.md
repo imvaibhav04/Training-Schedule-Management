@@ -19,13 +19,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Author
 
-👤 **Kishan Kumar Rai**
+👤 **Vaibhav Raj**
 
-- Connect With Me [Here](https://linktr.ee/kishan_rajput23) 👈
+- Connect With Me [Here]([https://www.linkedin.com/in/vaibhavraj04/]) 👈
 
 ## Show Your Support
 
 Please ⭐️ this repository if this project helped you!
-
-## License
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
