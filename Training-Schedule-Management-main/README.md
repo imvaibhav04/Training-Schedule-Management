@@ -21,8 +21,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 👤 **Vaibhav Raj**
 
-- Connect With Me [Here]([https://www.linkedin.com/in/vaibhavraj04/]) 👈
 
-## Show Your Support
-
-Please ⭐️ this repository if this project helped you!
